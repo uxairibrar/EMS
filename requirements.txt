@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+Faker
+scikit-learn
+pandas
+python-dotenv
+scikit-learn
